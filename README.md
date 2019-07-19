@@ -1,8 +1,10 @@
 # Python
 Python相关学习
 
-## 按照上传顺序分类
-### Matplotlib数据可视化.ipynb
+## 按照上传时间分类
+
+---
+### Matplotlib数据可视化
 
 包括如下内容：
 1. Matplotlib画图常用技巧
@@ -15,6 +17,7 @@ Python相关学习
 8. 多子图的画法
 9. 用Matplotlib画三维图
 
+---
 ## Scikit-Learn学习简介
 
 包括如下内容：
